@@ -1,0 +1,20 @@
+<listProducts>
+  <product id="123">
+    <type typeId="AAAA" brand="Apple"/>
+    <model modelId="1" gen='Early 2018'/>
+    <desc dummy="morgens" misc="xxx"/>
+    <price amount="9000" currency="EURO"/>
+  </product>
+  <product id="678">
+    <type typeId="HHHH" brand="Samsung"/>
+    <model modelId="22" gen='Late 2017'/>
+    <desc dummy="mittags" misc="yyy"/>
+    <price amount="4000" currency="EURO"/>
+  </product>
+  <product id="564">
+    <type typeId="ZZZZ" brand="Honor"/>
+    <model modelId="57" gen='Early 2050'/>
+    <desc dummy="abends" misc="zzz"/>
+    <price amount="200" currency="DOLLAR"/>
+  </product>
+</listProducts>
